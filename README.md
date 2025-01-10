@@ -2,7 +2,7 @@
 
 
 ## 👨‍💻 About Me
-- 🌱 I’m currently learning **React, Three.js, and Firebase**.
+- 🌱 I’m currently learning **React and Three.js**.
 - 💼 Offering services in **Web Development, SEO, and Video Editing**.
 - 🚀 Exploring the world of **WordPress Plugin Development**.
 - 🎯 Goals for 2025: Launch my business website and build innovative projects.
