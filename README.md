@@ -2,10 +2,10 @@
 
 
 ## 👨‍💻 About Me
-🌱 I’m currently learning React and Three.js.
-💼 Offering services in Web Development (WordPress, Laravel, WordPress Theme & Plugin Development), SEO, and Video Editing.
-🚀 Exploring the world of React and 3D Web Development.
-🎯 Goals for 2025: Launch my business website and build innovative projects.
+- 🌱 I’m currently learning **React and Three.js**.
+- 💼 Offering services in **Web Development (WordPress, Laravel, WordPress Theme & Plugin Development), SEO, and Video Editing**.
+- 🚀 Exploring the world of **React and 3D Web Development**.
+- 🎯 Goals for 2025: Launch my business website and build innovative projects.
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ak45akash&show_icons=true&theme=radical)
